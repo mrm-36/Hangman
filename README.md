@@ -1,2 +1,2 @@
 # Hangman
-Easy Hangman Game Using Python
+Easy Interactive Hangman Game Using Python
